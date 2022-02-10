@@ -2,7 +2,7 @@ package Queue
 
 /*
  *  239. 滑动窗口最大值   https://leetcode-cn.com/problems/sliding-window-maximum/
- *  单调队列
+ *  单调队列 -- 单调递减队列, 求最大值, 队列首部的即是最大值
  *  
  *
  */
