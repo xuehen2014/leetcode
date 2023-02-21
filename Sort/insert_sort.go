@@ -1,5 +1,6 @@
 package Sort
 
+//gotests -only InsertSort -w inser_sort_test.go .
 func InsertSort(list []int) {
 	n := len(list)
 
