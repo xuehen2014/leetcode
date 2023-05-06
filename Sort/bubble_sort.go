@@ -1,5 +1,7 @@
 package Sort
 
+//冒泡排序
+
 func BubbleSort(list []int) {
 	n := len(list)
 	didSwap := false

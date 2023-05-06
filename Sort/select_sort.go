@@ -1,5 +1,6 @@
 package Sort
 
+//选择排序
 func SelectSort(list []int) {
 	n := len(list)
 	for i := 0; i < n-1; i++ {
